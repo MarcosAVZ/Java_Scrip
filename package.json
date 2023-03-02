@@ -1,0 +1,19 @@
+{
+  "name": "actividad",
+  "version": "1.0.0",
+  "description": "\"Actividad\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosAVZ/Java_Scrip.git"
+  },
+  "author": "Marcos Avanzatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosAVZ/Java_Scrip/issues"
+  },
+  "homepage": "https://github.com/MarcosAVZ/Java_Scrip#readme"
+}
